@@ -1,4 +1,3 @@
-# 💤 LazyVim
+# 💤 LazyVim dotfiles
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Clone this repo then move the files into ~/.config/nvim, make sure backup your nvim folder first
